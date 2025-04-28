@@ -1,6 +1,6 @@
 # Emerald
 
-Emerald is a stack-based esoteric programming language designed for simplicity and minimalism. It supports basic operations like arithmetic, string manipulation, and user input/output using a stack-based approach.
+Emerald is a stack-based programming language designed for simplicity. It's name is a play on the language Ruby, though it is not similar.
 
 | Instruction    | Description                                                                 |
 | -------------- | --------------------------------------------------------------------------- |
