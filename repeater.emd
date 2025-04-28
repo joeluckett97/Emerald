@@ -1,0 +1,14 @@
+PUSH_STR Enter message to be repeated: 
+OUTPUT
+ACQUIRE_INPUT
+SET_VAR msg
+
+PUSH_STR Enter times to be repeated:
+OUTPUT
+ACQUIRE_INPUT
+SET_VAR times
+
+GET_VAR times
+GET_VAR msg
+
+REPEAT
