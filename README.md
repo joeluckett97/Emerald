@@ -30,7 +30,7 @@ OUTPUT
 **Output:**
 Hello Word!
 
-Examples/repeater.emd
+`Examples/repeater.emd`
 
 **Input:**
 PUSH_STR Enter message to be repeated: 
