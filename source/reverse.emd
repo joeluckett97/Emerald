@@ -1,9 +1,0 @@
-PUSH_STR Enter message to reverse:
-OUTPUT
-ACQUIRE_INPUT
-SET_VAR msg
-
-GET_VAR msg
-
-REVERSE msg
-OUTPUT
