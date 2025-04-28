@@ -27,19 +27,22 @@ Emerald is a stack-based programming language designed for simplicity. It's name
 
 **Input:**
 
+```
 PUSH_STR Hello World!
 
 OUTPUT
+```
 
 **Output:**
-
+```
 Hello Word!
-
+```
 
 `Examples/repeater.emd`
 
 **Input:**
 
+```
 PUSH_STR Enter message to be repeated: 
 
 OUTPUT
@@ -65,11 +68,12 @@ GET_VAR msg
 
 
 REPEAT
-
+```
 **Output:**
-
+```
 Enter message to be repeated: Hello World!
 
 Enter times to be repeated: 3
 
 Hello World! Hello World! Hello World!
+```
