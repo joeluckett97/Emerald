@@ -22,32 +22,54 @@ Emerald is a stack-based esoteric programming language designed for simplicity a
 
 ### Here are some examples of code inputs and outputs:
 
+
 `Examples/helloworld.emd`
 
 **Input:**
+
 PUSH_STR Hello World!
+
 OUTPUT
+
 **Output:**
+
 Hello Word!
+
 
 `Examples/repeater.emd`
 
 **Input:**
+
 PUSH_STR Enter message to be repeated: 
+
 OUTPUT
+
 ACQUIRE_INPUT
+
 SET_VAR msg
 
+
 PUSH_STR Enter times to be repeated:
+
 OUTPUT
+
 ACQUIRE_INPUT
+
 SET_VAR times
 
+
+
 GET_VAR times
+
 GET_VAR msg
 
+
 REPEAT
+
 **Output:**
+
 Enter message to be repeated: Hello World!
+
 Enter times to be repeated: 3
+
 Hello World! Hello World! Hello World!
